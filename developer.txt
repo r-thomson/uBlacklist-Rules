@@ -1,0 +1,13 @@
+# DEVELOPER-FOCUSED RULES
+
+# Often outrank the official docs
+*://*.geeksforgeeks.org/*
+*://*.javascripttutorial.net/*
+*://*.programiz.com/*
+*://*.pythontutorial.net/*
+
+# Mirrors of other sites
+*://*.w3cub.com/*
+
+# AI-generated stuff
+*://gistlib.com/*
