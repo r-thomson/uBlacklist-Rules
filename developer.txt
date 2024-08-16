@@ -5,6 +5,7 @@
 *://*.javascripttutorial.net/*
 *://*.programiz.com/*
 *://*.pythontutorial.net/*
+*://*.tutorialspoint.com/*
 *://*.tutorialsteacher.com/*
 
 # Mirrors of other sites
