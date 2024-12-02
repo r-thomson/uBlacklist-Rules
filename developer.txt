@@ -12,4 +12,5 @@
 *://*.w3cub.com/*
 
 # AI-generated stuff
+*://codingidol.com/*
 *://gistlib.com/*
